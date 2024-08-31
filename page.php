@@ -24,6 +24,9 @@ include_once "includes/navbar.php";
             <div>
                 <?php echo nl2br($page_data['content']); ?>
             </div>
+            <div>
+                This is simple page view Template
+            </div>
         </div>
     </section>
     <section>
